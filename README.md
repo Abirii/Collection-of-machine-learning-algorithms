@@ -1,2 +1,2 @@
-# Linear-Regression
-Linear Regression using NumPy
+Linear and Locally-Weighted-Linear-Regression using NumPy
+
