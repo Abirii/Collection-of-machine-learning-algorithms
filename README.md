@@ -1,2 +1,2 @@
-# Linear and Locally-Weighted-Linear-Regression using NumPy
+# collection of machine learning algorithms using NumPy
 
