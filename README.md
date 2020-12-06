@@ -1,2 +1,2 @@
-# collection of machine learning algorithms using NumPy
+# Collection of machine learning algorithms using NumPy
 
